@@ -1,4 +1,4 @@
 # SETUP COMMAND
 ```
-wget https://github.com/FasterExE/SSL-Certificate/raw/main/certificate.sh; bash certificate.sh
+wget https://github.com/FasterExE/ULIMIT-N/raw/refs/heads/main/ulimit.sh; bash certificate.sh
 ```
